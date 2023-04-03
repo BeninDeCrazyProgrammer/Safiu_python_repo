@@ -1,12 +1,12 @@
 # Safiu_python_repo
 ---
-##Name: Benin Sumani Safiu
+Name: Benin Sumani Safiu
 ---
-##Student ID: 10970115
+Student ID: 10970115
 ---
-##Biomedical Engineering Department
+Biomedical Engineering Department
 ---
-##University of Ghana
+University of Ghana
 ---
 
 This repository contains my python files my projects
